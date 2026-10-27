@@ -8,3 +8,5 @@ INMP441 MEMS microphone,
 CC1101 Transeiver,
 
 Intended to log atmospheric data from an altitude of roughly 100,000ft.
+
+Use Main.ino and Func.ino in single sketch.
